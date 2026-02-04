@@ -1,0 +1,7 @@
+.mainbar {display: inline-flex; 
+width: 80vw;
+height: auto;
+float: left;
+justify-content: space-around;
+
+}

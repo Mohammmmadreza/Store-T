@@ -1,0 +1,8 @@
+.sidebar {
+   display: table-column;
+    width: 20vw;
+    height: 100vw;
+    border-left: 2px solid grey;
+    float: right;
+   
+}
